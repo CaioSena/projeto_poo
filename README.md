@@ -61,7 +61,7 @@ java -cp bin Main
 
 ## 👥 Colaboradores
 * **Caio Sena** — [GitHub](https://github.com/CaioSena)
-* **Enzo Alves** — [GitHub](https://github.com/link-do-perfil-do-enzo)
+* **Enzo Alves** — [GitHub](https://github.com/EzBreck)
 
 ---
 *Desenvolvido como parte dos estudos de POO.*
